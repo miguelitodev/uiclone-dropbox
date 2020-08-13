@@ -1,3 +1,32 @@
+<p align="center"><img src="./.github/logo-dropbox.png"></p>
+<br>
+<p align="center">
+    <img src="https://img.shields.io/github/issues/miguelrisquelme/uiclone-dropbox">
+    <img src="https://img.shields.io/github/forks/miguelrisquelme/uiclone-dropbox">
+    <img src="https://img.shields.io/github/stars/miguelrisquelme/uiclone-dropbox">
+    <img src="https://img.shields.io/github/license/miguelrisquelme/uiclone-dropbox">
+</p>
+<br>
+<br>
+<br>
+<br>
+## Techs
+
+- [x] React.js
+- [x] Styled Components
+- [x] TypeScript
+
+## Starting Dev Environment
+
+1. Run `npm install` or `yarn install`.<br />
+2. Run `yarn start` and access `http://localhost:3000`.<br />
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

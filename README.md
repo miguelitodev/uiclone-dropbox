@@ -11,6 +11,17 @@
 <br>
 <br>
 
+## Prints
+
+<p align="center"><img src="./.github/print-desktop.png"/></p>
+<p align="center"><img src="./.github/print-mobile.png"/></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Techs
 
 - [x] React.js

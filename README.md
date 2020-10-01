@@ -1,85 +1,68 @@
-<p align="center"><img src="./.github/logo-dropbox.png"></p>
-<br>
+<div align="center" id="top">
+    <img src="./.github/app.gif" alt="UI Clone Dropbox" width="300px"/>
+    <br>
+    <a href="https://miguelrisquelme-uiclone-dropbox.netlify.app">Demo  ➤</a>
+</div>
+
+<h1 align="center">UI Clone Dropbox</h1>
+
 <p align="center">
-    <img src="https://img.shields.io/github/issues/miguelrisquelme/uiclone-dropbox">
-    <img src="https://img.shields.io/github/forks/miguelrisquelme/uiclone-dropbox">
-    <img src="https://img.shields.io/github/stars/miguelrisquelme/uiclone-dropbox">
-    <img src="https://img.shields.io/github/license/miguelrisquelme/uiclone-dropbox">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/miguelrisquelme/uiclone-dropbox?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/miguelrisquelme/uiclone-dropbox?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/miguelrisquelme/uiclone-dropbox?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/miguelrisquelme/uiclone-dropbox?color=56BEB8">
+
+  <img alt="Github issues" src="https://img.shields.io/github/issues/miguelrisquelme/uiclone-dropbox?color=56BEB8" />
+
+  <img alt="Github forks" src="https://img.shields.io/github/forks/miguelrisquelme/uiclone-dropbox?color=56BEB8" />
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/miguelrisquelme/uiclone-dropbox?color=56BEB8" />
 </p>
-<br>
-<br>
-<br>
-<br>
-
-## Prints
-
-<p align="center"><img src="./.github/print-desktop.png"/></p>
-<p align="center"><img src="./.github/print-mobile.png"/></p>
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
-## Techs
+## :dart: About
 
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+Dropbox is a service for storing and sharing files. It is based on the concept of "cloud computing". It belongs to Dropbox Inc., based in San Francisco, California, USA. The company that developed the program provides computer centers that store its customers' files.
 
-## Starting Dev Environment
+## :rocket: Technologies
 
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start` and access `http://localhost:3000`.<br />
+The following tools were used in this project:
 
-<br>
-<br>
-<br>
-<br>
-<br>
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :white_check_mark: Requirements
 
-## Available Scripts
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-In the project directory, you can run:
+## :checkered_flag: Starting
 
-### `yarn start`
+```bash
+# Clone this project
+$ git clone https://github.com/miguelrisquelme/uiclone-dropbox.git
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Access
+$ cd uiclone-dropbox
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# Install dependencies
+$ yarn install
 
-### `yarn test`
+# Run the project
+$ yarn start
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# The server will initialize in the <http://localhost:3000>
+```
 
-### `yarn build`
+## :memo: License
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Made with :heart: by <a href="https://github.com/miguelrisquelme" target="_blank">Miguel Riquelme</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+&#xa0;
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="#top">Back to top</a>
